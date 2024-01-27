@@ -1,0 +1,15 @@
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/bin/Debug/net6.0/ReferenceTypes
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/bin/Debug/net6.0/ReferenceTypes.deps.json
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/bin/Debug/net6.0/ReferenceTypes.runtimeconfig.json
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/bin/Debug/net6.0/ReferenceTypes.dll
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/bin/Debug/net6.0/ReferenceTypes.pdb
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.csproj.AssemblyReference.cache
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.AssemblyInfoInputs.cache
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.AssemblyInfo.cs
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.csproj.CoreCompileInputs.cache
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.dll
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/obj/Debug/net6.0/refint/ReferenceTypes.dll
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.pdb
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/obj/Debug/net6.0/ReferenceTypes.genruntimeconfig.cache
+/Users/berkaykaya/Projects/CsIntro/CsIntro/ReferenceTypes/obj/Debug/net6.0/ref/ReferenceTypes.dll

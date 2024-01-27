@@ -1,4 +1,7 @@
-﻿<Properties StartupConfiguration="{7F31AEA1-4A57-41A8-AFFB-A80A242D01D1}|Default">
-  <MonoDevelop.Ide.ItemProperties.CsIntro FirstBuild="True" />
+﻿<Properties StartupConfiguration="{A82B6D7C-FD58-4832-A146-2E9179A1258C}|Default">
+  <MonoDevelop.Ide.ItemProperties.Generics FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.CsIntro PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ReferenceTypes PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Constructors PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

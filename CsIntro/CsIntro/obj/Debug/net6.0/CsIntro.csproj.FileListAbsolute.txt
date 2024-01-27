@@ -1,0 +1,15 @@
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/bin/Debug/net6.0/CsIntro
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/bin/Debug/net6.0/CsIntro.deps.json
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/bin/Debug/net6.0/CsIntro.runtimeconfig.json
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/bin/Debug/net6.0/CsIntro.dll
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/bin/Debug/net6.0/CsIntro.pdb
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/obj/Debug/net6.0/CsIntro.csproj.AssemblyReference.cache
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/obj/Debug/net6.0/CsIntro.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/obj/Debug/net6.0/CsIntro.AssemblyInfoInputs.cache
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/obj/Debug/net6.0/CsIntro.AssemblyInfo.cs
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/obj/Debug/net6.0/CsIntro.csproj.CoreCompileInputs.cache
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/obj/Debug/net6.0/CsIntro.dll
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/obj/Debug/net6.0/refint/CsIntro.dll
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/obj/Debug/net6.0/CsIntro.pdb
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/obj/Debug/net6.0/CsIntro.genruntimeconfig.cache
+/Users/berkaykaya/Projects/CsIntro/CsIntro/CsIntro/obj/Debug/net6.0/ref/CsIntro.dll

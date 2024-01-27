@@ -1,0 +1,15 @@
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/bin/Debug/net6.0/Generics
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/bin/Debug/net6.0/Generics.deps.json
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/bin/Debug/net6.0/Generics.runtimeconfig.json
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/bin/Debug/net6.0/Generics.dll
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/bin/Debug/net6.0/Generics.pdb
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/obj/Debug/net6.0/Generics.csproj.AssemblyReference.cache
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/obj/Debug/net6.0/Generics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/obj/Debug/net6.0/Generics.AssemblyInfoInputs.cache
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/obj/Debug/net6.0/Generics.AssemblyInfo.cs
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/obj/Debug/net6.0/Generics.csproj.CoreCompileInputs.cache
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/obj/Debug/net6.0/Generics.dll
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/obj/Debug/net6.0/refint/Generics.dll
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/obj/Debug/net6.0/Generics.pdb
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/obj/Debug/net6.0/Generics.genruntimeconfig.cache
+/Users/berkaykaya/Projects/CsIntro/CsIntro/Generics/obj/Debug/net6.0/ref/Generics.dll
